@@ -1,19 +1,19 @@
 [
     {
         "package": "animovement",
-        "url": "https://github.com/roaldarbol/animovement"
+        "url": "https://github.com/animovement/animovement"
     },
     {
         "package": "aniframe",
-        "url": "https://github.com/roaldarbol/aniframe"
+        "url": "https://github.com/animovement/aniframe"
     },
     {
         "package": "aniread",
-        "url": "https://github.com/roaldarbol/aniread"
+        "url": "https://github.com/animovement/aniread"
     }, 
     {
         "package": "aniprocess",
-        "url": "https://github.com/roaldarbol/aniprocess"
+        "url": "https://github.com/animovement/aniprocess"
     }, 
     {
         "package": "rhdf5",
