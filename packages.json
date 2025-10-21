@@ -16,6 +16,18 @@
         "url": "https://github.com/animovement/aniprocess"
     }, 
     {
+        "package": "animetric",
+        "url": "https://github.com/animovement/animetric"
+    }, 
+    {
+        "package": "anicheck",
+        "url": "https://github.com/animovement/anicheck"
+    }, 
+    {
+        "package": "anivis",
+        "url": "https://github.com/animovement/anivis"
+    }, 
+    {
         "package": "rhdf5",
         "url": "https://github.com/Huber-group-EMBL/rhdf5"
     },
