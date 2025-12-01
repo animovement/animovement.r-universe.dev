@@ -8,6 +8,10 @@
         "url": "https://github.com/animovement/aniframe"
     },
     {
+        "package": "anispace",
+        "url": "https://github.com/animovement/anispace"
+    },
+    {
         "package": "aniread",
         "url": "https://github.com/animovement/aniread"
     }, 
